@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 
     /* Check for command line arguments and print help
        message if none are present */
-    if( argc<2 )
+    if( argc!=2 )
     {
         puts("Print hex dump (with ASCII) of a file");
         puts("Usage: dump filename");
