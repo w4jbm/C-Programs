@@ -3,6 +3,11 @@
 Various programs in C.
 
 
+## callsort.c
+
+Demo of calling the Linux sort command from within a C program. Not particularly useful, but could be the starting point for something more elaborate.
+
+
 ## colors.c
 
 A simple demo of the use of ANSI escape codes to change colors and attributes of text output to the console.
