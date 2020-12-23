@@ -2,6 +2,12 @@
 
 Various programs in C.
 
+
+## colors.c
+
+A simple demo of the use of ANSI escape codes to change colors and attributes of text output to the console.
+
+
 ## dump.c
 
 A simple program to create a traditional hex dump of a file. 
