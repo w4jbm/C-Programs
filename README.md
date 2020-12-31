@@ -18,6 +18,11 @@ A simple demo of the use of ANSI escape codes to change colors and attributes of
 A simple program to create a traditional hex dump of a file. 
 
 
+## num_guess.cpp
+
+Nothing fancy, but all the "sample" programs I came across when I was playing around would end up in an endless loop if you entered something other than an integer as your guess.
+
+
 ## And the fine print...
 To the extent applicable, all code and other material in this repository is:
 
