@@ -34,6 +34,11 @@ It actually even gets at some interesting history of our number system if you th
 As I recall, I think my verion in BASIC went up to numbers as high as 9,999 which was a fair amount of money at the time. (Anything higher was something the company's owner wanted to know about anyway, so having to manually write the check provided a type of 'checks and balances'.)
 
 
+## nxtafter.c
+
+Some tinkering with one of the more obscure functions you'll likely never use in C...
+
+
 ## And the fine print...
 To the extent applicable, all code and other material in this repository is:
 
