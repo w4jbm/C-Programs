@@ -23,7 +23,7 @@ A simple program to create a traditional hex dump of a file.
 Nothing fancy, but all the "sample" programs I came across when I was playing around would end up in an endless loop if you entered something other than an integer as your guess.
 
 
-# num2words.c
+## num2words.c
 
 This takes an integer between 0 and 1,000 and converts it to words. (If you don't provide a number, it gives you 15 examples starting at a random point.)
 
